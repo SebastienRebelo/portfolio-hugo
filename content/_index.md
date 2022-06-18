@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -26,8 +26,9 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    link_url: https://github.com/forestryio/ubuild-jekyll
-    link_text: 'See on GitHub '
+    link_url: https://www.linkedin.com/in/s%C3%A9bastien-rebelo-785327172/
+    link_text: Linkedin
+    open_in_new_tab: true
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
@@ -78,3 +79,10 @@ page_sections:
   content: Hello world!
 
 ---
+Sébastien Rebelo
+
+**Développeur Web**
+
+Hello ! 👋  
+Web développeur depuis maintenant un peu plus de 5 ans.   
+Je vous propose mes compétences pour intégrer votre design et vos fonctionnalités à l'aide de divers langages comme : HTML, CSS, JS, VUE.JS, STRAPI, NODE.JS, WEB3, PRESTASHOP, SHOPIFY.
